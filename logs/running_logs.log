@@ -1,1 +1,65 @@
 [2024-08-06 00:31:14,502: INFO: main :Welcome to logging example!]
+[2024-08-31 20:58:00,901: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:05:06,944: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:05:44,648: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:08:56,054: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:11:17,973: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:12:08,838: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:12:08,839: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-08-31 21:12:08,840: INFO: comman :created directory at: artifacts]
+[2024-08-31 21:12:08,840: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-08-31 21:15:50,364: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:15:50,365: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-08-31 21:15:50,365: INFO: comman :created directory at: artifacts]
+[2024-08-31 21:15:50,366: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-08-31 21:18:18,700: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-08-31 21:18:18,701: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-08-31 21:18:18,702: INFO: comman :created directory at: artifacts]
+[2024-08-31 21:18:18,702: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:00:06,452: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-04 06:00:06,457: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-04 06:00:06,458: INFO: comman :created directory at: artifacts]
+[2024-09-04 06:00:06,458: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:01:37,396: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-04 06:01:37,397: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-04 06:01:37,398: INFO: comman :created directory at: artifacts]
+[2024-09-04 06:01:37,399: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:03:32,756: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-04 06:03:32,758: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-04 06:03:32,758: INFO: comman :created directory at: artifacts]
+[2024-09-04 06:03:32,760: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:03:47,253: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-04 06:03:47,253: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-04 06:03:47,254: INFO: comman :created directory at: artifacts]
+[2024-09-04 06:03:47,254: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:07:25,774: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-04 06:07:25,776: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-04 06:07:25,776: INFO: comman :created directory at: artifacts]
+[2024-09-04 06:07:25,776: INFO: comman :created directory at: artifacts/data_ingestion]
+[2024-09-04 06:07:26,962: INFO: 1535728101 :artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3E8B:34ED81:1956109:1C2C0D3:66D83F6D
+Accept-Ranges: bytes
+Date: Wed, 04 Sep 2024 11:07:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-kigq8000149-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725448046.296619,VS0,VE297
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ded619b5888d1834fbd564d3f5c6da43bf1f2987
+Expires: Wed, 04 Sep 2024 11:12:26 GMT
+Source-Age: 0
+
+]
