@@ -63,3 +63,7 @@ Expires: Wed, 04 Sep 2024 11:12:26 GMT
 Source-Age: 0
 
 ]
+[2024-09-05 03:21:44,761: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-05 03:21:44,763: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-05 03:21:44,763: INFO: comman :created directory at: artifacts]
+[2024-09-05 03:21:44,764: INFO: comman :created directory at: artifacts/data_validation]
