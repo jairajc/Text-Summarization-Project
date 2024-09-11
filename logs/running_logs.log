@@ -67,3 +67,8 @@ Source-Age: 0
 [2024-09-05 03:21:44,763: INFO: comman :yaml file:params.yaml loaded successfully]
 [2024-09-05 03:21:44,763: INFO: comman :created directory at: artifacts]
 [2024-09-05 03:21:44,764: INFO: comman :created directory at: artifacts/data_validation]
+[2024-09-07 18:26:45,041: INFO: config :PyTorch version 2.4.0 available.]
+[2024-09-07 18:27:21,179: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-07 18:27:21,182: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-07 18:27:21,182: INFO: comman :created directory at: artifacts]
+[2024-09-07 18:27:21,183: INFO: comman :created directory at: artifacts/data_transformation]
