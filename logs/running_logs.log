@@ -101,3 +101,8 @@ Source-Age: 0
 [2024-09-11 19:47:04,417: INFO: comman :yaml file:params.yaml loaded successfully]
 [2024-09-11 19:47:04,418: INFO: comman :created directory at: artifacts]
 [2024-09-11 19:47:04,418: INFO: comman :created directory at: artifacts/model_trainer]
+[2024-09-15 05:16:01,676: INFO: config :PyTorch version 2.4.0 available.]
+[2024-09-15 05:16:06,339: INFO: comman :yaml file:config/config.yaml loaded successfully]
+[2024-09-15 05:16:06,775: INFO: comman :yaml file:params.yaml loaded successfully]
+[2024-09-15 05:16:06,776: INFO: comman :created directory at: artifacts]
+[2024-09-15 05:16:06,777: INFO: comman :created directory at: artifacts/model_trainer]
